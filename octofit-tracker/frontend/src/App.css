@@ -1,0 +1,56 @@
+body {
+  background-color: #f8f9fa; /* Light gray background */
+  color: #343a40; /* Dark gray text */
+}
+
+.navbar {
+  background-color: #007bff; /* Blue navigation menu */
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important; /* White links and brand */
+}
+
+.nav-link:hover {
+  color: #ffc107 !important; /* Yellow on hover */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #007bff; /* Blue headings */
+}
+
+.table {
+  background-color: #ffffff; /* White table background */
+  border: 1px solid #dee2e6; /* Light gray border */
+}
+
+.table th {
+  background-color: #007bff; /* Blue table header */
+  color: #ffffff; /* White text */
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #f2f2f2; /* Light gray for striped rows */
+}
+
+.btn {
+  background-color: #007bff; /* Blue buttons */
+  color: #ffffff; /* White text */
+}
+
+.btn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.card {
+  border: 1px solid #007bff; /* Blue border for cards */
+}
+
+.card-title {
+  color: #007bff; /* Blue card title */
+}
+
+.logo {
+  height: 50px;
+  margin-right: 10px;
+}
